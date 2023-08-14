@@ -88,6 +88,7 @@ function Navbar() {
   );
 }
 
+
 function MenuItem({ href, children, isDesktop }) {
   const textSizeClass = isDesktop ? 'text-xl text-white' : 'text-white';
 
