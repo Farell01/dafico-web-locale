@@ -71,6 +71,8 @@ function Navbar() {
             <MobileMenuItem href="/about">About</MobileMenuItem>
             <MobileMenuItem href="/gallery">Gallery</MobileMenuItem>
             <MobileMenuItem href="/contact">Contact</MobileMenuItem>
+            <Link href="/" locale="id">🇮🇩</Link>
+            <Link href="/" locale="en">🇬🇧</Link>
           </ul>
         </div>
       )}
