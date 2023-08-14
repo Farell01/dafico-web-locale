@@ -71,6 +71,10 @@ function Navbar() {
             <MobileMenuItem href="/about">About</MobileMenuItem>
             <MobileMenuItem href="/gallery">Gallery</MobileMenuItem>
             <MobileMenuItem href="/contact">Contact</MobileMenuItem>
+
+          </ul>
+          <br/>
+          <ul className="space-x-6">  
             <Link href="/" locale="id">🇮🇩</Link>
             <Link href="/" locale="en">🇬🇧</Link>
           </ul>
