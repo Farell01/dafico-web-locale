@@ -1,0 +1,86 @@
+{
+    "Home": {
+        "home_header_title": "WELCOME TO PT DAFICO PRIMA PERKASA",
+        "home_header_subtitle": "Our Company Website offers an insightful overview of our expertise in pioneering smart solutions for fishing and ship navigation, alongside our commitment to driving innovation in renewable energy. Explore our team of key personnel and immerse yourself in our company culture as we chart a new course in these dynamic industries.",
+        "home_projects_title": "Discover Our Projects",
+        "projects_camar_title": "CAMAR Smart Fishing",
+        "projects_camar_description": "Revolutionize fishing with our smart technology that enhances efficiency and sustainability.",
+        "projects_integratedSolutions_title": "Integrated Solutions for Industrial, Oil & Gas, Mining Equipment",
+        "projects_integratedSolutions_description": "Providing comprehensive predesign, design, and engineering solutions for equipment in industrial, oil and gas, and mining sectors.",
+        "projects_hydrogenRenewableEnergy_title": "Hydrogen-Based Renewable Energy",
+        "projects_hydrogenRenewableEnergy_description": "Harnessing the power of hydrogen to create sustainable and clean energy solutions.",
+        "missionValues_ourMission_title": "Our Mission",
+        "missionValues_ourMission_content": "We empower communities and industries through innovative solutions that drive positive change and sustainability.",
+        "missionValues_ourValues_title": "Our Values",
+        "missionValues_ourValues_value1": "Excellence in all endeavors",
+        "missionValues_ourValues_value2": "Integrity and transparency",
+        "missionValues_ourValues_value3": "Innovation and adaptability",
+        "missionValues_ourValues_value4": "Collaboration and teamwork",
+        "missionValues_ourValues_value5": "Environmental and social responsibility",
+        "home_projectSection_learnMore": "Learn More"
+      },
+      "Projects": {
+        "projects_camar_title": "Camar Smart Fishing",
+        "projects_camar_description": "Increases productivity, efficiency, and security for local fishermen.",
+        "projects_integratedSolutions_title": "Integrated Solutions for Industrial, Oil & Gas, Mining Equipment",
+        "projects_integratedSolutions_description": "Providing comprehensive predesign, design, and engineering solutions for equipment in industrial, oil and gas, and mining sectors.",
+        "projects_hydrogenRenewableEnergy_title": "Hydrogen-Based Renewable Energy",
+        "projects_hydrogenRenewableEnergy_description": "Revolutionizing Energy: Harnessing the Power of Hydrogen for a Cleaner and Greener Future.",
+        "home_projectSection_learnMore": "Learn More"
+      },
+
+      "ProjectPage1": {
+        "projectTitle": "CAMAR Smart Fishing",
+        "projectDescription": "CAMAR Smart Fishing is the embodiment of visionary collaboration, the result of a dynamic partnership between BRIN (formerly known as BPPT), PT.Navicom Indonesia, and PT Dafico Prima Persada. This remarkable synergy marries cutting-edge satellite technology, remote sensing prowess, and the navigational finesse of GPS and AIS systems, all curated to enhance fishing yield, optimize fuel efficiency, and elevate maritime safety within Indonesia's vast aquatic realm.",
+        "projectFeatures": "**Features:**\n\n- **● Fish Potential Estimation Map (PELOPI):** Uncover the hidden rhythms of the sea, as PELOPI paints a vivid canvas of potential fishing zones, guiding you to bountiful catches with precision.\n- **● Shipping Line Tracking:** Navigate maritime pathways with confidence, as our technology harmonizes celestial navigation with terrestrial wisdom, enhancing each voyage's safety and efficiency.\n- **● SOS Button:** A guardian in the waves, the SOS button offers reassurance, a beacon of assistance at your fingertips when the tides turn challenging.\n- **● GPS & AIS Monitoring:** Elevate your maritime prowess with the elegance of GPS and AIS monitoring, a seamless duet that ensures accurate positioning and vessel awareness.\n- **● AIS Transponders:** Illuminate the seas with a constellation of AIS transponders, fostering a secure environment where vessels communicate, contributing to safer maritime adventures.",
+        "projectDescriptionFooter": "CAMAR Smart Fishing beckons you to explore a new era of marine excellence, as we set sail towards enhanced productivity, sustainable practices, and the prosperity of Indonesia's fishing legacy. Join us in charting a course towards a brighter future on the waves.",
+        "camarImageCaption": "Camar",
+        "transceiverImageCaption": "Tranceiver Camar",
+        "gpsImageCaption": "GPS Antenna",
+        "backToProjects": "Back to Projects",
+        "additionalImages": "Additional Images",
+        "additionalImageCaption": "Additional Image {{index}}"
+      },
+
+      "About": {
+        "aboutUsTitle": "About Us",
+        "aboutUsDescription": "PT. Dafico Prima Perkasa is an established company with a mission to fulfill requirements in extractive materials, goods and services trading, and renewable energy.",
+        "aboutUsPartnership": "Alongside our partners and associates, we deliver goods trading and services including Ammunition Packaging, Mining, Heavy Equipment Parts, and Ship Navigation.",
+        "aboutUsFounded": "Founded in 2010, our initial goal was to establish a sustainable construction company, providing predictable and quality constructions while fostering lasting relationships with professionals and suppliers.",
+        "aboutUsFocus": "With a focus on ship navigation, smart fishing, and ammunition packaging, we've developed smart fishing technology with functionality and a unique identification system (AIS). Whether you need a ship navigation system or fish locator, we have you covered.",
+        "aboutUsExpansion": "Additionally, we're expanding into the new landscape of hydrogen-based renewable energy.",
+        "companyDetailsTitle": "Company Details",
+        "companyName": "COMPANY NAME",
+        "companyNameValue": "PT. Dafico Prima Perkasa",
+        "companyEstablished": "Date of Established: August 27th, 2010",
+        "director": "DIRECTOR",
+        "directorName": "Name: Muhammad Ridho Akbar",
+        "directorMobile": "Mobile: +6287820996316",
+        "address": "ADDRESS",
+        "headOffice": "Head Office:",
+        "addressDetails": "Jl. Sentra Primer Timur Ruko Commercial Park 1\nNo. 2 Pulo Gebang, Cakung Jakarta Timur",
+        "coreBusiness": "CORE BUSINESS:",
+        "coreBusinessValues": "Ship Navigation Trading\nHeavy Equipment Parts\nRenewable Energy",
+        "contactDetails": "CONTACT DETAILS",
+        "telephone": "Telephone: (+6221) 48701683",
+        "email": "Email: dafico.primaperkasa@gmail.com",
+        "npwpNumber": "NPWP Number: 03.096.532.1-006.000",
+        "nibNumber": "NIB Number: 0209220052006"
+      },
+
+      "ProjectPage3": {
+        "projectTitle": "Hydrogen-Based and Solar-Powered Renewable Energy",
+        "paragraph1": "In a world where the demand for clean and sustainable energy has reached unprecedented heights, innovative solutions have emerged to redefine the way we power our planet. Among these game-changing technologies, hydrogen-based and solar-powered energy stand out as beacons of hope, promising to transform the landscape of renewable energy and usher in a new era of environmental responsibility.",
+        "paragraph2": "As concerns over climate change continue to intensify, the need to shift away from fossil fuels and embrace renewable energy sources has become more urgent than ever. The global community has witnessed remarkable strides in the realm of solar, wind, and geothermal energies, showcasing their potential to reduce greenhouse gas emissions and dependence on non-renewable resources.",
+        "paragraph3": "Amidst this renewable energy renaissance, hydrogen has emerged as a versatile and promising solution. Hydrogen-based energy harnesses the incredible power of the universe's most abundant element to generate electricity and heat, all while emitting only water vapor as a byproduct. This virtually eliminates harmful emissions and positions hydrogen as a frontrunner in the pursuit of a carbon-neutral future.",
+        "paragraph4": "Hydrogen's potential is multi-faceted, making it an ideal candidate for a wide range of applications. From fueling vehicles and powering industrial processes to storing excess renewable energy and providing backup power, hydrogen-based systems offer unparalleled versatility. Notably, hydrogen's high energy density and fast refueling times make it a feasible alternative to conventional fossil fuels in transportation, addressing one of the most significant sources of global emissions.",
+        "paragraph5": "Collaborating with solar-powered energy, our mission at Dafico Prima Perkasa gains even more momentum. Solar energy, derived from the sun's boundless power, complements hydrogen's capabilities. By combining these two renewable sources, we aim to create a comprehensive and reliable energy solution that ensures a cleaner and brighter future.",
+        "paragraph6": "At Dafico Prima Perkasa, we're not just witnessing the future – we're building it. Our unwavering dedication to advancing hydrogen-based and solar-powered energy solutions is fueled by the conviction that a sustainable world is within our reach. Through cutting-edge research, innovative technologies, and strategic partnerships, we're at the forefront of the renewable energy revolution, driving progress towards a cleaner, greener, and more prosperous future.",
+        "paragraph7": "In conclusion, while other renewable energy sources have undoubtedly paved the way for a sustainable tomorrow, the synergy between hydrogen-based and solar-powered energy takes us a step closer to a carbon-neutral world. Their exceptional versatility, zero-emission profiles, and potential to reshape industries make these technologies forces to be reckoned with. Join us on this remarkable journey as we harness the power of hydrogen and the sun to shape a brighter and more sustainable future for generations to come.",
+        "backToProjects": "Back to Projects"
+      }
+      
+        
+      
+      
+  }

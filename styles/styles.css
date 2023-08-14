@@ -1,0 +1,90 @@
+/* admin-styles.css */
+.bg-gray-800 {
+    background-color: #1a202c;
+  }
+  
+  .text-white {
+    color: #ffffff;
+  }
+  
+  .py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .min-h-screen {
+    min-height: 100vh;
+  }
+  
+  .header {
+    background-color: #1a202c;
+    color: #ffffff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  .main {
+    flex: 1;
+  }
+  
+  .bg-gray-800 {
+    background-color: #1a202c;
+  }
+  
+  .p-4 {
+    padding: 1rem;
+  }
+  
+
+  
+  .space-y-2 > * + * {
+    margin-top: 0.5rem;
+  }
+  
+  .hover\:bg-gray-700:hover {
+    background-color: #2d3748;
+    transition: background-color 0.2s;
+  }
+  
+  .p-2 {
+    padding: 0.5rem;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .flex-3 {
+    flex: 3;
+  }
+  
+  .py-2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Add more Tailwind CSS classes if needed */
+  

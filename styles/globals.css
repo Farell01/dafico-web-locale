@@ -1,0 +1,124 @@
+/* styles/globals.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.Header {
+  width: 100%;
+  height: 120vh;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: relative;
+  /* Add the SVG as a background by setting the appropriate path to the SVG */
+  background-image: url('../public/assets/ocean.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1; /* You can adjust the opacity to control the SVG's transparency */
+  pointer-events: none; /* This line allows clicking through the pseudo-element to the content */
+}
+
+.HeaderContainer {
+  width: auto;
+  margin-left: 80px;
+}
+
+
+/* Add the background image for the .about class */
+.about {
+  /* Add the background image by setting the appropriate path to the image */
+  background-image: url('../public/assets/ocean.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Add the background image for the .projects class */
+.projects {
+    /* Add the background image by setting the appropriate path to the image */
+    background-image: url('../public/assets/ocean.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh; /* Ensure the background covers the entire viewport height */
+  }
+
+/* Add the background image for the .camar class */
+.camar {
+    /* Add the background image by setting the appropriate path to the image */
+    background-image: url('../public/assets/ocean.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh; /* Ensure the background covers the entire viewport height */
+  }
+  
+  .backgroundAll {
+    /* Add the background image by setting the appropriate path to the image */
+    background-image: url('../public/assets/ocean.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh; /* Ensure the background covers the entire viewport height */
+  }
+  .project-card {
+    width: 300px; /* Set your desired width */
+
+  }
+
+
+
+/* globals.css */
+
+.text-container {
+  width: 90%; /* Adjust the width as needed */
+  max-width: 1200px; /* Set a maximum width for larger screens */
+  margin: 0 auto; /* Center the content horizontally */
+}
+
+/* Media query for larger screens */
+@media (min-width: 768px) {
+  .text-container {
+    width: 80%; /* Adjust the width for larger screens */
+  }
+  
+  /* Optional: Increase the maximum width for even larger screens */
+  @media (min-width: 1024px) {
+    .text-container {
+      max-width: 1400px; /* Adjust the max width for even larger screens */
+    }
+  }
+}
+
+
+/* Rest of your global CSS styles */
+/* ... */
+/* Adjust the logo size for mobile screens */
+@media (max-width: 640px) {
+  .small-logo img {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+  }
+}
+
+/* globals.css */
+@media (max-width: 768px) {
+  .project-section-mobile {
+    flex-direction: column;
+  }
+  .project-image-mobile {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+  .project-description {
+    flex: 1;
+  }
+}

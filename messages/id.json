@@ -1,0 +1,84 @@
+{
+    "Home": {
+      "home_header_title": "SELAMAT DATANG DI PT DAFICO PRIMA PERKASA",
+      "home_header_subtitle": "Situs Web Perusahaan Kami memberikan gambaran yang mendalam tentang keahlian kami dalam memimpin solusi pintar untuk perikanan dan navigasi kapal, bersama dengan komitmen kami untuk mendorong inovasi dalam energi terbarukan. Telusuri tim personel kunci kami dan merasakan budaya perusahaan kami saat kami mencatat arah baru dalam industri dinamis ini.",
+      "home_projects_title": "Temukan Proyek Kami",
+      "projects_camar_title": "CAMAR Pemancingan Pintar",
+      "projects_camar_description": "Revolutionize pemancingan dengan teknologi pintar kami yang meningkatkan efisiensi dan keberlanjutan.",
+      "projects_integratedSolutions_title": "Solusi Terpadu untuk Peralatan Industri, Minyak & Gas, Pertambangan",
+      "projects_integratedSolutions_description": "Memberikan solusi predesign, desain, dan rekayasa komprehensif untuk peralatan di sektor industri, minyak dan gas, dan pertambangan.",
+      "projects_hydrogenRenewableEnergy_title": "Energi Terbarukan Berbasis Hidrogen",
+      "projects_hydrogenRenewableEnergy_description": "Memanfaatkan kekuatan hidrogen untuk menciptakan solusi energi yang berkelanjutan dan bersih.",
+      "missionValues_ourMission_title": "Misi Kami",
+      "missionValues_ourMission_content": "Kami memberdayakan masyarakat dan industri melalui solusi inovatif yang mendorong perubahan positif dan keberlanjutan.",
+      "missionValues_ourValues_title": "Nilai-nilai Kami",
+      "missionValues_ourValues_value1": "Keunggulan dalam semua usaha",
+      "missionValues_ourValues_value2": "Integritas dan transparansi",
+      "missionValues_ourValues_value3": "Inovasi dan adaptabilitas",
+      "missionValues_ourValues_value4": "Kerjasama dan kerja tim",
+      "missionValues_ourValues_value5": "Tanggung jawab lingkungan dan sosial",
+      "home_projectSection_learnMore": "Pelajari Lebih Lanjut"
+    },
+
+    "Projects": {
+        "projects_camar_title": "Camar Pancing Cerdas",
+        "projects_camar_description": "Meningkatkan produktivitas, efisiensi, dan keamanan bagi nelayan lokal.",
+        "projects_integratedSolutions_title": "Solusi Terpadu untuk Peralatan Industri, Minyak & Gas, Pertambangan",
+        "projects_integratedSolutions_description": "Menyediakan solusi predesign, desain, dan rekayasa komprehensif untuk peralatan di sektor industri, minyak dan gas, dan pertambangan.",
+        "projects_hydrogenRenewableEnergy_title": "Energi Berbasis Hidrogen",
+        "projects_hydrogenRenewableEnergy_description": "Revolusi Energi: Memanfaatkan Kekuatan Hidrogen untuk Masa Depan yang Lebih Bersih dan Lebih Hijau.",
+        "home_projectSection_learnMore": "Pelajari Lebih Lanjut"
+    },
+
+    "ProjectPage": {
+        "projectTitle": "Camar Pancing Cerdas",
+        "projectDescription": "CAMAR Smart Fishing adalah perwujudan kolaborasi visioner, hasil dari kemitraan dinamis antara BRIN (sebelumnya dikenal sebagai BPPT), PT.Navicom Indonesia, dan PT Dafico Prima Persada. Sinergi luar biasa ini menggabungkan teknologi satelit canggih, keahlian dalam remote sensing, dan ketangkasan navigasi dari sistem GPS dan AIS, yang semuanya dirancang untuk meningkatkan hasil tangkapan ikan, mengoptimalkan efisiensi bahan bakar, dan meningkatkan keselamatan maritim di dalam wilayah akuatik yang luas di Indonesia.",
+        "projectFeatures": "**Fitur:**\n\n- **● Peta Estimasi Potensi Ikan (PELOPI):** Ungkap irama tersembunyi dari laut, karena PELOPI menggambar kanvas hidup dari zona-zona potensial untuk penangkapan ikan, memandu Anda ke tangkapan melimpah dengan presisi.\n- **● Pelacakan Jalur Pelayaran:** Navigasi jalur maritim dengan percaya diri, karena teknologi kami mengharmonisasikan navigasi langit dengan kebijaksanaan terestrial, meningkatkan keamanan dan efisiensi setiap pelayaran.\n- **● Tombol SOS:** Penjaga di gelombang, tombol SOS menawarkan jaminan, mercusuar bantuan di ujung jari Anda saat arus berubah menjadi tantangan.\n- **● Pemantauan GPS & AIS:** Tingkatkan kemampuan maritim Anda dengan keanggunan pemantauan GPS dan AIS, duet yang mulus yang memastikan posisi yang akurat dan kesadaran kapal.\n- **● Pemancar AIS:** Terangi laut dengan konstelasi pemancar AIS, membina lingkungan yang aman di mana kapal berkomunikasi, berkontribusi pada petualangan maritim yang lebih aman.",
+        "projectDescriptionFooter": "CAMAR Smart Fishing mengajak Anda untuk menjelajahi era keunggulan maritim yang baru, saat kami berlayar menuju produktivitas yang lebih baik, praktik yang berkelanjutan, dan kemakmuran warisan perikanan Indonesia. Bergabunglah dengan kami dalam merencanakan kursus menuju masa depan yang lebih cerah di atas ombak.",
+        "camarImageCaption": "Camar",
+        "transceiverImageCaption": "Pemancar Camar",
+        "gpsImageCaption": "Antena GPS",
+        "backToProjects": "Kembali ke Proyek",
+        "additionalImages": "Gambar Tambahan",
+        "additionalImageCaption": "Gambar Tambahan {{index}}"
+      },
+
+      "About": {
+        "aboutUsTitle": "Tentang Kami",
+        "aboutUsDescription": "PT. Dafico Prima Perkasa adalah perusahaan yang sudah mapan dengan misi untuk memenuhi kebutuhan dalam bahan eksktraktif, perdagangan barang dan jasa, serta energi terbarukan.",
+        "aboutUsPartnership": "Bersama mitra dan rekan-rekan kami, kami menyediakan perdagangan barang dan jasa termasuk Kemasan Amunisi, Pertambangan, Suku Cadang Alat Berat, dan Navigasi Kapal.",
+        "aboutUsFounded": "Berdiri pada tahun 2010, tujuan awal kami adalah mendirikan perusahaan konstruksi yang berkelanjutan, menyediakan konstruksi yang dapat diprediksi dan berkualitas sambil membina hubungan yang langgeng dengan para profesional dan pemasok.",
+        "aboutUsFocus": "Dengan fokus pada navigasi kapal, penangkapan ikan pintar, dan kemasan amunisi, kami telah mengembangkan teknologi penangkapan ikan pintar dengan fungsionalitas dan sistem identifikasi unik (AIS). Baik Anda membutuhkan sistem navigasi kapal atau penanda ikan, kami siap membantu.",
+        "aboutUsExpansion": "Selain itu, kami sedang berkembang dalam bidang energi terbarukan berbasis hidrogen.",
+        "companyDetailsTitle": "Detail Perusahaan",
+        "companyName": "NAMA PERUSAHAAN",
+        "companyNameValue": "PT. Dafico Prima Perkasa",
+        "companyEstablished": "Tanggal Pendirian: 27 Agustus 2010",
+        "director": "DIREKTUR",
+        "directorName": "Nama: Muhammad Ridho Akbar",
+        "directorMobile": "Nomor HP: +6287820996316",
+        "address": "ALAMAT",
+        "headOffice": "Kantor Pusat:",
+        "addressDetails": "Jl. Sentra Primer Timur Ruko Commercial Park 1\nNo. 2 Pulo Gebang, Cakung Jakarta Timur",
+        "coreBusiness": "BIDANG UTAMA:",
+        "coreBusinessValues": "Perdagangan Navigasi Kapal\nSuku Cadang Alat Berat\nEnergi Terbarukan",
+        "contactDetails": "DETAIL KONTAK",
+        "telephone": "Telepon: (+6221) 48701683",
+        "email": "Email: dafico.primaperkasa@gmail.com",
+        "npwpNumber": "Nomor NPWP: 03.096.532.1-006.000",
+        "nibNumber": "Nomor NIB: 0209220052006"
+      },
+
+      "ProjectPage3": {
+        "projectTitle": "Energi Terbarukan Berbasis Hidrogen dan Tenaga Surya",
+        "paragraph1": "Di dunia di mana permintaan akan energi bersih dan berkelanjutan telah mencapai tingkat yang belum pernah terjadi sebelumnya, solusi inovatif telah muncul untuk mendefinisikan ulang cara kita menghidupi planet kita. Di antara teknologi yang mengubah permainan ini, energi berbasis hidrogen dan tenaga surya menonjol sebagai mercusuar harapan, yang berjanji untuk mengubah lanskap energi terbarukan dan membawa era baru tanggung jawab lingkungan.",
+        "paragraph2": "Saat keprihatinan tentang perubahan iklim terus meningkat, kebutuhan untuk beralih dari bahan bakar fosil dan merangkul sumber energi terbarukan telah menjadi lebih mendesak daripada sebelumnya. Komunitas global telah menyaksikan kemajuan luar biasa di ranah energi surya, angin, dan panas bumi, memamerkan potensi mereka untuk mengurangi emisi gas rumah kaca dan ketergantungan pada sumber daya yang tidak terbarukan.",
+        "paragraph3": "Di tengah kebangkitan energi terbarukan ini, hidrogen muncul sebagai solusi yang serbaguna dan menjanjikan. Energi berbasis hidrogen memanfaatkan kekuatan luar biasa unsur paling melimpah di alam semesta untuk menghasilkan listrik dan panas, sambil hanya mengeluarkan uap air sebagai produk sampingan. Hal ini praktis menghilangkan emisi berbahaya dan menjadikan hidrogen sebagai pelari terdepan dalam upaya menuju masa depan yang bebas karbon.",
+        "paragraph4": "Potensi hidrogen bersifat multi-faset, menjadikannya kandidat yang ideal untuk berbagai aplikasi. Mulai dari pengisian bahan bakar kendaraan dan memasok proses industri hingga menyimpan energi terbarukan berlebih dan memberikan pasokan daya cadangan, sistem berbasis hidrogen menawarkan fleksibilitas yang tak tertandingi. Terutama, kerapatan energi hidrogen yang tinggi dan waktu pengisian bahan bakar yang cepat menjadikannya alternatif yang layak untuk bahan bakar fosil konvensional dalam transportasi, mengatasi salah satu sumber emisi global yang paling signifikan.",
+        "paragraph5": "Dengan berkolaborasi dengan energi surya, misi kami di Dafico Prima Perkasa semakin berkembang. Energi surya, yang berasal dari kekuatan matahari yang tak terbatas, melengkapi kemampuan hidrogen. Dengan menggabungkan kedua sumber energi terbarukan ini, kami bertujuan untuk menciptakan solusi energi yang komprehensif dan dapat diandalkan yang menjamin masa depan yang lebih bersih dan cerah.",
+        "paragraph6": "Di Dafico Prima Perkasa, kami bukan hanya menyaksikan masa depan – kami sedang membangunnya. Dedikasi tak tergoyahkan kami dalam mengembangkan solusi energi berbasis hidrogen dan tenaga surya didorong oleh keyakinan bahwa dunia yang berkelanjutan ada dalam jangkauan kita. Melalui penelitian canggih, teknologi inovatif, dan kemitraan strategis, kami berada di garis depan revolusi energi terbarukan, mendorong kemajuan menuju masa depan yang lebih bersih, lebih hijau, dan lebih makmur.",
+        "paragraph7": "Sebagai kesimpulan, meskipun sumber energi terbarukan lainnya tanpa ragu telah membuka jalan menuju masa depan yang berkelanjutan, sinergi antara energi berbasis hidrogen dan tenaga surya membawa kita satu langkah lebih dekat menuju dunia bebas karbon. Fleksibilitas luar biasa, profil nol emisi, dan potensi untuk mengubah industri menjadikan teknologi ini sebagai kekuatan yang patut diperhitungkan. Bergabunglah dengan kami dalam perjalanan luar biasa ini saat kami memanfaatkan kekuatan hidrogen dan matahari untuk membentuk masa depan yang lebih cerah dan berkelanjutan bagi generasi yang akan datang.",
+        "backToProjects": "Kembali ke Proyek"
+      }
+  }
+  
