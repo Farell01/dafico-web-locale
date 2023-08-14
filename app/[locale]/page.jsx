@@ -116,7 +116,7 @@ const Home = () => {
   return (
     <div className="bg-gray-100">
       <div className="Header">
-        <div className="HeaderContainer mx-20 md:mx-40 sm:mx-20 sm:mr-20 p-6 text-center bg-[rgba(0,0,0,0.537)]">
+        <div className="HeaderContainer mx-10 md:mx-40  sm:mr-20 p-4 text-center bg-[rgba(0,0,0,0.537)]">
           <h1 className="text-3xl md:text-4xl font-bold mb-4 text-white justify-center">
             {translations('home_header_title')}
           </h1>
