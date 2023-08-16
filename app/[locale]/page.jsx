@@ -121,6 +121,16 @@ const MissionValuesSection = () => {
             </ul>
           </div>
         </div>
+        {/* Add the download button */}
+        <div className="z-20 flex justify-center">
+          <a
+            href="/downloads/Company-Profile-Dafico.pptx" // Replace with the actual path to your file
+            download
+            className="mt-8 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-md"
+          >
+            Download Company Profile
+          </a>
+        </div>
       </div>
     </div>
   );
@@ -150,9 +160,11 @@ const Home = () => {
               {translations('home_header_subtitle')}
             </span>
           </p>
+
         </div>
       </div>
       <MissionValuesSection />
+      
       <div className="ProjectsSection bg-blue-200 py-10">
         <ProjectsGrid />
       </div>
