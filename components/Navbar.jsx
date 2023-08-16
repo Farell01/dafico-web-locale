@@ -51,7 +51,7 @@ function Navbar() {
       {/* Logo or Mobile Menu Icon */}
       <div className={`flex items-center ml-5 small-logo`}>
         <Link href="/">
-          <Image src={Logo} alt="Dafico Logo" width={100} height={100} />
+          <Image src={Logo} alt="Dafico Logo" width={60} height={60} />
         </Link>
       </div>
 

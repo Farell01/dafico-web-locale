@@ -43,7 +43,9 @@ const ProjectPage = () => {
           <br />
         </div>
         <div className="mx-4 md:mx-16 lg:mx-16 xl:mx-24 mb-8">
-          {projectDescription}
+        <ReactMarkdown
+          children={projectDescription}
+          />
           <br />
           <br />
           <ReactMarkdown
@@ -51,7 +53,10 @@ const ProjectPage = () => {
             children={projectFeatures}
           />
           <br />
-          {projectDescriptionFooter}
+          
+          <ReactMarkdown
+          children={projectDescriptionFooter}
+          />
         </div>
         <Link href="/projects" passHref>
           <button className="mt-8 bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md">

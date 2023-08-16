@@ -17,9 +17,6 @@ export default function RootLayout({ children, params }) {
 
   return (
     <html lang={locale}>
-      <head>
-        {/* Add your meta tags, title, and other head content here */}
-      </head>
       <body>
         { <Navbar />}
         {children}

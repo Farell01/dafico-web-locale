@@ -1,5 +1,6 @@
 {
-    "Home": {
+    "Home": {  "title": "PT DAFICO PRIMA PERKASA - Pioneering Smart Solutions for Fishing, Navigation, and Renewable Energy",
+    "description": "Discover our expertise in smart fishing and ship navigation solutions, alongside our commitment to driving innovation in renewable energy. Explore our team and company culture.",
         "home_header_title": "WELCOME TO PT DAFICO PRIMA PERKASA",
         "home_header_subtitle": "Our Company Website offers an insightful overview of our expertise in pioneering smart solutions for fishing and ship navigation, alongside our commitment to driving innovation in renewable energy. Explore our team of key personnel and immerse yourself in our company culture as we chart a new course in these dynamic industries.",
         "home_projects_title": "Discover Our Projects",
@@ -31,9 +32,9 @@
 
       "ProjectPage1": {
         "projectTitle": "CAMAR Smart Fishing",
-        "projectDescription": "CAMAR Smart Fishing is the embodiment of visionary collaboration, the result of a dynamic partnership between BRIN (formerly known as BPPT), PT.Navicom Indonesia, and PT Dafico Prima Persada. This remarkable synergy marries cutting-edge satellite technology, remote sensing prowess, and the navigational finesse of GPS and AIS systems, all curated to enhance fishing yield, optimize fuel efficiency, and elevate maritime safety within Indonesia's vast aquatic realm.",
+        "projectDescription": "**CAMAR Smart Fishing** is the embodiment of visionary collaboration, the result of a dynamic partnership between BRIN (formerly known as BPPT), PT.Navicom Indonesia, and PT Dafico Prima Persada. This remarkable synergy marries cutting-edge satellite technology, remote sensing prowess, and the navigational finesse of GPS and AIS systems, all curated to enhance fishing yield, optimize fuel efficiency, and elevate maritime safety within Indonesia's vast aquatic realm.",
         "projectFeatures": "**Features:**\n\n- **● Fish Potential Estimation Map (PELOPI):** Uncover the hidden rhythms of the sea, as PELOPI paints a vivid canvas of potential fishing zones, guiding you to bountiful catches with precision.\n- **● Shipping Line Tracking:** Navigate maritime pathways with confidence, as our technology harmonizes celestial navigation with terrestrial wisdom, enhancing each voyage's safety and efficiency.\n- **● SOS Button:** A guardian in the waves, the SOS button offers reassurance, a beacon of assistance at your fingertips when the tides turn challenging.\n- **● GPS & AIS Monitoring:** Elevate your maritime prowess with the elegance of GPS and AIS monitoring, a seamless duet that ensures accurate positioning and vessel awareness.\n- **● AIS Transponders:** Illuminate the seas with a constellation of AIS transponders, fostering a secure environment where vessels communicate, contributing to safer maritime adventures.",
-        "projectDescriptionFooter": "CAMAR Smart Fishing beckons you to explore a new era of marine excellence, as we set sail towards enhanced productivity, sustainable practices, and the prosperity of Indonesia's fishing legacy. Join us in charting a course towards a brighter future on the waves.",
+        "projectDescriptionFooter": "**CAMAR Smart Fishing** beckons you to explore a new era of marine excellence, as we set sail towards enhanced productivity, sustainable practices, and the prosperity of Indonesia's fishing legacy. Join us in charting a course towards a brighter future on the waves.",
         "camarImageCaption": "Camar",
         "transceiverImageCaption": "Tranceiver Camar",
         "gpsImageCaption": "GPS Antenna",
@@ -58,9 +59,12 @@
         "directorMobile": "Mobile: +6287820996316",
         "address": "ADDRESS",
         "headOffice": "Head Office:",
-        "addressDetails": "Jl. Sentra Primer Timur Ruko Commercial Park 1\nNo. 2 Pulo Gebang, Cakung Jakarta Timur",
+        "addressDetail1": "Jl. Sentra Primer Timur Ruko Commercial Park 1 No. 2",
+        "addressDetail2": "Pulo Gebang, Cakung Jakarta Timur",
         "coreBusiness": "CORE BUSINESS:",
-        "coreBusinessValues": "Ship Navigation Trading\nHeavy Equipment Parts\nRenewable Energy",
+        "coreBusinessValue1": "Ship Navigation Trading",
+        "coreBusinessValue2": "Heavy Equipment Parts",
+        "coreBusinessValue3": "Renewable Energy",
         "contactDetails": "CONTACT DETAILS",
         "telephone": "Telephone: (+6221) 48701683",
         "email": "Email: dafico.primaperkasa@gmail.com",

@@ -2,7 +2,23 @@ import { useTranslations } from 'next-intl';
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import Head from 'next/head'
 import '@styles/globals.css';
+import { Metadata } from 'next'
+import { getTranslator } from 'next-intl/server';
+
+//seo optimization here
+export async function generateMetadata({ params }) {
+  const { locale } = params;
+  const t = await getTranslator(locale, 'Home');
+
+  return {
+    title: t('title'),
+    description: t('description')
+  };
+}
+
+
 
 const ProjectSection = ({ titleKey, descriptionKey, link, imageSrc }) => {
   const translations = useTranslations('Home');
@@ -115,12 +131,21 @@ const Home = () => {
 
   return (
     <div className="bg-gray-100">
+      {/* Implement SEO optimization using Head */}
+      <Head>
+        <title>Welcome to PT DAFICO PRIMA PERKASA</title>
+        <meta
+          name="description"
+          content="Discover our expertise in smart fishing and ship navigation solutions, alongside our commitment to driving innovation in renewable energy. Explore our team and company culture."
+        />
+      </Head>
       <div className="Header">
+
         <div className="HeaderContainer mx-10 md:mx-40  sm:mr-20 p-4 text-center bg-[rgba(0,0,0,0.537)]">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4 text-white justify-center">
+          <h1 className=" md:text-4xl text-2xl font-bold mb-4 text-white justify-center">
             {translations('home_header_title')}
           </h1>
-          <p className="text-xl md:text-2xl">
+          <p className="md:text-2xl text-lg ">
             <span className="inline-block px-4 text-white">
               {translations('home_header_subtitle')}
             </span>

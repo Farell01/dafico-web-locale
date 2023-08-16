@@ -1,9 +1,11 @@
 {
     "Home": {
+      "title": "PT DAFICO PRIMA PERKASA - Solusi Cerdas Inovatif untuk Perikanan, Navigasi Kapal, dan Energi Terbarukan",
+      "description": "Temukan keahlian kami dalam solusi perikanan cerdas dan navigasi kapal, seiring dengan komitmen kami untuk mendorong inovasi dalam energi terbarukan. Jelajahi tim kami dan budaya perusahaan kami.",
       "home_header_title": "SELAMAT DATANG DI PT DAFICO PRIMA PERKASA",
       "home_header_subtitle": "Situs Web Perusahaan Kami memberikan gambaran yang mendalam tentang keahlian kami dalam memimpin solusi pintar untuk perikanan dan navigasi kapal, bersama dengan komitmen kami untuk mendorong inovasi dalam energi terbarukan. Telusuri tim personel kunci kami dan merasakan budaya perusahaan kami saat kami mencatat arah baru dalam industri dinamis ini.",
       "home_projects_title": "Temukan Proyek Kami",
-      "projects_camar_title": "CAMAR Pemancingan Pintar",
+      "projects_camar_title": "Camar Smart Fishing",
       "projects_camar_description": "Revolutionize pemancingan dengan teknologi pintar kami yang meningkatkan efisiensi dan keberlanjutan.",
       "projects_integratedSolutions_title": "Solusi Terpadu untuk Peralatan Industri, Minyak & Gas, Pertambangan",
       "projects_integratedSolutions_description": "Memberikan solusi predesign, desain, dan rekayasa komprehensif untuk peralatan di sektor industri, minyak dan gas, dan pertambangan.",
@@ -21,7 +23,7 @@
     },
 
     "Projects": {
-        "projects_camar_title": "Camar Pancing Cerdas",
+        "projects_camar_title": "Camar Smart Fishing",
         "projects_camar_description": "Meningkatkan produktivitas, efisiensi, dan keamanan bagi nelayan lokal.",
         "projects_integratedSolutions_title": "Solusi Terpadu untuk Peralatan Industri, Minyak & Gas, Pertambangan",
         "projects_integratedSolutions_description": "Menyediakan solusi predesign, desain, dan rekayasa komprehensif untuk peralatan di sektor industri, minyak dan gas, dan pertambangan.",
@@ -31,10 +33,10 @@
     },
 
     "ProjectPage1": {
-        "projectTitle": "Camar Pancing Cerdas",
-        "projectDescription": "CAMAR Smart Fishing adalah perwujudan kolaborasi visioner, hasil dari kemitraan dinamis antara BRIN (sebelumnya dikenal sebagai BPPT), PT.Navicom Indonesia, dan PT Dafico Prima Persada. Sinergi luar biasa ini menggabungkan teknologi satelit canggih, keahlian dalam remote sensing, dan ketangkasan navigasi dari sistem GPS dan AIS, yang semuanya dirancang untuk meningkatkan hasil tangkapan ikan, mengoptimalkan efisiensi bahan bakar, dan meningkatkan keselamatan maritim di dalam wilayah akuatik yang luas di Indonesia.",
+        "projectTitle": "Camar Smart Fishing",
+        "projectDescription": "**CAMAR Smart Fishing** adalah perwujudan kolaborasi visioner, hasil dari kemitraan dinamis antara BRIN (sebelumnya dikenal sebagai BPPT), PT.Navicom Indonesia, dan PT Dafico Prima Persada. Sinergi luar biasa ini menggabungkan teknologi satelit canggih, keahlian dalam remote sensing, dan ketangkasan navigasi dari sistem GPS dan AIS, yang semuanya dirancang untuk meningkatkan hasil tangkapan ikan, mengoptimalkan efisiensi bahan bakar, dan meningkatkan keselamatan maritim di dalam wilayah akuatik yang luas di Indonesia.",
         "projectFeatures": "**Fitur:**\n\n- **● Peta Estimasi Potensi Ikan (PELOPI):** Ungkap irama tersembunyi dari laut, karena PELOPI menggambar kanvas hidup dari zona-zona potensial untuk penangkapan ikan, memandu Anda ke tangkapan melimpah dengan presisi.\n- **● Pelacakan Jalur Pelayaran:** Navigasi jalur maritim dengan percaya diri, karena teknologi kami mengharmonisasikan navigasi langit dengan kebijaksanaan terestrial, meningkatkan keamanan dan efisiensi setiap pelayaran.\n- **● Tombol SOS:** Penjaga di gelombang, tombol SOS menawarkan jaminan, mercusuar bantuan di ujung jari Anda saat arus berubah menjadi tantangan.\n- **● Pemantauan GPS & AIS:** Tingkatkan kemampuan maritim Anda dengan keanggunan pemantauan GPS dan AIS, duet yang mulus yang memastikan posisi yang akurat dan kesadaran kapal.\n- **● Pemancar AIS:** Terangi laut dengan konstelasi pemancar AIS, membina lingkungan yang aman di mana kapal berkomunikasi, berkontribusi pada petualangan maritim yang lebih aman.",
-        "projectDescriptionFooter": "CAMAR Smart Fishing mengajak Anda untuk menjelajahi era keunggulan maritim yang baru, saat kami berlayar menuju produktivitas yang lebih baik, praktik yang berkelanjutan, dan kemakmuran warisan perikanan Indonesia. Bergabunglah dengan kami dalam merencanakan kursus menuju masa depan yang lebih cerah di atas ombak.",
+        "projectDescriptionFooter": "**CAMAR Smart Fishing** mengajak Anda untuk menjelajahi era keunggulan maritim yang baru, saat kami berlayar menuju produktivitas yang lebih baik, praktik yang berkelanjutan, dan kemakmuran warisan perikanan Indonesia. Bergabunglah dengan kami dalam merencanakan kursus menuju masa depan yang lebih cerah di atas ombak.",
         "camarImageCaption": "Camar",
         "transceiverImageCaption": "Pemancar Camar",
         "gpsImageCaption": "Antena GPS",
@@ -59,9 +61,12 @@
         "directorMobile": "Nomor HP: +6287820996316",
         "address": "ALAMAT",
         "headOffice": "Kantor Pusat:",
-        "addressDetails": "Jl. Sentra Primer Timur Ruko Commercial Park 1\nNo. 2 Pulo Gebang, Cakung Jakarta Timur",
+        "addressDetail1": "Jl. Sentra Primer Timur Ruko Commercial Park 1 No. 2",
+        "addressDetail2": "Pulo Gebang, Cakung Jakarta Timur",
         "coreBusiness": "BIDANG UTAMA:",
-        "coreBusinessValues": "Perdagangan Navigasi Kapal\nSuku Cadang Alat Berat\nEnergi Terbarukan",
+        "coreBusinessValue1": "Ship Navigation Trading",
+        "coreBusinessValue2": "Heavy Equipment Parts",
+        "coreBusinessValue3": "Renewable Energy",
         "contactDetails": "DETAIL KONTAK",
         "telephone": "Telepon: (+6221) 48701683",
         "email": "Email: dafico.primaperkasa@gmail.com",
