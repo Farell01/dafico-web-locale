@@ -10,6 +10,7 @@ const ProjectPage = () => {
   const projectDescription = t('projectDescription');
   const projectFeatures = t('projectFeatures');
   const projectDescriptionFooter = t('projectDescriptionFooter');
+  const projectSubTitle = t('projectSubTitle');
 
   return (
     <div className="min-h-screen bg-gray-100 py-8 flex justify-center">
@@ -47,6 +48,10 @@ const ProjectPage = () => {
           children={projectDescription}
           />
           <br />
+          <ReactMarkdown
+            className="text-gray-700 text-left text-3xl"
+            children={projectSubTitle}
+          />
           <br />
           <ReactMarkdown
             className="text-gray-700 text-left"
@@ -57,6 +62,16 @@ const ProjectPage = () => {
           <ReactMarkdown
           children={projectDescriptionFooter}
           />
+        </div>
+          {/* Add the download button */}
+          <div className="flex justify-center">
+          <a
+            href="/downloads/Persentasi-CAMAR-Smart-Fishing.pptx" // Replace with the actual path to your file
+            download
+            className="mt-8 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-md"
+          >
+            Download PPT
+          </a>
         </div>
         <Link href="/projects" passHref>
           <button className="mt-8 bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md">

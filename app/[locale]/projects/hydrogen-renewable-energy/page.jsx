@@ -25,9 +25,14 @@ const ProjectPage = () => {
         <div className="flex flex-col items-center justify-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 text-center">{projectTitle}</h1>
           <img
-            src="/path/to/your/image-placeholder.jpg" // Replace with your image placeholder
+            src="/assets/hydrogen-energy-production.png" // Replace with your image placeholder
             alt={projectTitle}
-            className="w-96 h-72 object-cover rounded-md shadow-md mb-6"
+            className="w-auto h-auto object-cover rounded-md shadow-md mb-6"
+          />
+          <img
+            src="/assets/hydrogen-plant-workflow.png" // Replace with your image placeholder
+            alt={projectTitle}
+            className="w-auto h-auto object-cover rounded-md shadow-md mb-6"
           />
           {/* Render each paragraph */}
           {paragraphs.map((paragraph, index) => (
@@ -35,6 +40,8 @@ const ProjectPage = () => {
               {paragraph}
             </p>
           ))}
+                  {/* Add the download button */}
+
           <Link href="/projects" passHref>
             <button className="mt-8 bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md">
               {t('backToProjects')}
