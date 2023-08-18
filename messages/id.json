@@ -84,6 +84,29 @@
         "paragraph6": "Di Dafico Prima Perkasa, kami bukan hanya menyaksikan masa depan – kami sedang membangunnya. Dedikasi tak tergoyahkan kami dalam mengembangkan solusi energi berbasis hidrogen dan tenaga surya didorong oleh keyakinan bahwa dunia yang berkelanjutan ada dalam jangkauan kita. Melalui penelitian canggih, teknologi inovatif, dan kemitraan strategis, kami berada di garis depan revolusi energi terbarukan, mendorong kemajuan menuju masa depan yang lebih bersih, lebih hijau, dan lebih makmur.",
         "paragraph7": "Sebagai kesimpulan, meskipun sumber energi terbarukan lainnya tanpa ragu telah membuka jalan menuju masa depan yang berkelanjutan, sinergi antara energi berbasis hidrogen dan tenaga surya membawa kita satu langkah lebih dekat menuju dunia bebas karbon. Fleksibilitas luar biasa, profil nol emisi, dan potensi untuk mengubah industri menjadikan teknologi ini sebagai kekuatan yang patut diperhitungkan. Bergabunglah dengan kami dalam perjalanan luar biasa ini saat kami memanfaatkan kekuatan hidrogen dan matahari untuk membentuk masa depan yang lebih cerah dan berkelanjutan bagi generasi yang akan datang.",
         "backToProjects": "Kembali ke Proyek"
+      },
+      "contactUs": {
+        "contactInfo": {
+          "title": "Informasi Kontak",
+          "whatsapp": "WhatsApp: {phoneNumber}",
+          "email": "Email: {email}"
+        },
+        "title": "Hubungi Kami",
+        "description": "Silakan hubungi kami melalui platform media sosial kami atau melalui WhatsApp.",
+        "whatsappButton": "Hubungi kami via WhatsApp"
+      },
+      "Footer": {
+        "quickLinks": "Tautan Cepat",
+        "headquarters": "Kantor Pusat",
+        "Home": "Beranda",
+        "Projects": "Proyek",
+        "About": "Tentang Kami",
+        "Gallery": "Galeri",
+        "Contact": "Kontak",
+        "address1": "Jl. Sentra Primer Timur Ruko Commercial Park 1 No. 2",
+        "address2": "Pulo Gebang, Cakung Jakarta Timur",
+        
+        "phone": "(+6221) 48701683"
       }
   }
   

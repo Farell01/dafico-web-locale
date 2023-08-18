@@ -2,13 +2,17 @@
 import React, { useState, useEffect } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
 import Image from 'next/image';
-
+import {usePathname, useRouter} from 'next-intl/client';
 import Link from 'next-intl/link';
 import Logo from '@public/assets/Dafico_Logo.png';
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [windowWidth, setWindowWidth] = useState(null);
+  const [isScrolled, setIsScrolled] = useState(false); // Added state for scroll
+
+  const pathname = usePathname();
+  const router = useRouter();
 
   function toggleMobileMenu() {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -46,6 +50,8 @@ function Navbar() {
     }
   }, [isMobileMenuOpen]);
 
+
+
   return (
     <nav className="bg-gray-900 p-4 flex justify-between items-center relative">
       {/* Logo or Mobile Menu Icon */}
@@ -75,8 +81,8 @@ function Navbar() {
           </ul>
           <br/>
           <ul className="space-x-6">  
-            <Link href="/" locale="id">🇮🇩</Link>
-            <Link href="/" locale="en">🇬🇧</Link>
+            <Link href={pathname} locale="id">🇮🇩</Link>
+            <Link href={pathname} locale="en">🇬🇧</Link>
           </ul>
         </div>
       )}
@@ -87,8 +93,8 @@ function Navbar() {
         <MenuItem href="/about" isDesktop={true}>About</MenuItem>
         <MenuItem href="/gallery" isDesktop={true}>Gallery</MenuItem>
         <MenuItem href="/contact" isDesktop={true}>Contact</MenuItem>
-        <Link href="/" locale="id">🇮🇩</Link>
-        <Link href="/" locale="en">🇬🇧</Link>
+        <Link href={pathname} locale="id">🇮🇩</Link>
+        <Link href={pathname} locale="en">🇬🇧</Link>
       </ul>
     </nav>
   );

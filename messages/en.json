@@ -84,6 +84,29 @@
         "paragraph6": "At Dafico Prima Perkasa, we're not just witnessing the future – we're building it. Our unwavering dedication to advancing hydrogen-based and solar-powered energy solutions is fueled by the conviction that a sustainable world is within our reach. Through cutting-edge research, innovative technologies, and strategic partnerships, we're at the forefront of the renewable energy revolution, driving progress towards a cleaner, greener, and more prosperous future.",
         "paragraph7": "In conclusion, while other renewable energy sources have undoubtedly paved the way for a sustainable tomorrow, the synergy between hydrogen-based and solar-powered energy takes us a step closer to a carbon-neutral world. Their exceptional versatility, zero-emission profiles, and potential to reshape industries make these technologies forces to be reckoned with. Join us on this remarkable journey as we harness the power of hydrogen and the sun to shape a brighter and more sustainable future for generations to come.",
         "backToProjects": "Back to Projects"
+      },
+      "contactUs": {
+        "contactInfo": {
+          "title": "Contact Information",
+          "whatsapp": "WhatsApp: {phoneNumber}",
+          "email": "Email: {email}"
+        },
+        "title": "Contact Us",
+        "description": "Feel free to connect with us on our social media platforms or reach out via WhatsApp.",
+        "whatsappButton": "Contact us via WhatsApp"
+      },
+      "Footer": {
+        "quickLinks": "Quick Links",
+        "headquarters": "Headquarters",
+        "Home": "Home",
+        "Projects": "Projects",
+        "About": "About",
+        "Gallery": "Gallery",
+        "Contact": "Contact",
+        "address1": "Jl. Sentra Primer Timur Ruko Commercial Park 1 No. 2",
+        "address2": "Pulo Gebang, Cakung Jakarta Timur",
+        
+        "phone": "(+6221) 48701683"
       }
       
         

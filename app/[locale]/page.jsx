@@ -141,16 +141,7 @@ const Home = () => {
 
   return (
     <div className="bg-gray-100">
-      {/* Implement SEO optimization using Head */}
-      <Head>
-        <title>Welcome to PT DAFICO PRIMA PERKASA</title>
-        <meta
-          name="description"
-          content="Discover our expertise in smart fishing and ship navigation solutions, alongside our commitment to driving innovation in renewable energy. Explore our team and company culture."
-        />
-      </Head>
       <div className="Header">
-
         <div className="HeaderContainer mx-10 md:mx-40  sm:mr-20 p-4 text-center bg-[rgba(0,0,0,0.537)]">
           <h1 className=" md:text-4xl text-2xl font-bold mb-4 text-white justify-center">
             {translations('home_header_title')}
@@ -160,11 +151,9 @@ const Home = () => {
               {translations('home_header_subtitle')}
             </span>
           </p>
-
         </div>
       </div>
-      <MissionValuesSection />
-      
+      <MissionValuesSection />      
       <div className="ProjectsSection bg-blue-200 py-10">
         <ProjectsGrid />
       </div>

@@ -84,6 +84,19 @@ body {
   margin: 0 auto; /* Center the content horizontally */
 }
 
+.contactcontainer {
+  min-height: 80%; /* Set a minimum height for the container to stretch to at least the viewport height */
+  display: flex;
+  flex-direction: column;
+}
+html, body {
+  height: 80%; /* Ensure the HTML and body elements take up full height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  
+}
+
+
 /* Media query for larger screens */
 @media (min-width: 768px) {
   .text-container {
