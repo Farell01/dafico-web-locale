@@ -1,7 +1,6 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import '@styles/globals.css';
+import React from 'react';
 import { useTranslations } from 'next-intl';
+import "@styles/globals.css"
 import { FaInstagram, FaTwitter, FaPhone, FaWhatsapp, FaEnvelope } from 'react-icons/fa'; // Import icons from react-icons
 
 export default function ContactUs() {
@@ -10,7 +9,7 @@ export default function ContactUs() {
   return (
     <div className="contactcontainer mx-auto mt-8 p-4">
       <h1 className="text-4xl font-bold text-center mb-6">
-      {t('title')}
+        {t('title')}
       </h1>
       <div className="flex flex-col md:flex-row justify-center space-y-5 md:space-y-0 md:space-x-16">
         <ContactInfo />
@@ -20,10 +19,16 @@ export default function ContactUs() {
   );
 }
 
+function generateWhatsAppLink(phoneNumber, message) {
+  const encodedMessage = encodeURIComponent(message);
+  return `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
+}
+
 function ContactInfo() {
   const t = useTranslations('contactUs');
   const phoneNumber = '+1234567890';
   const email = 'contact@example.com';
+  const whatsappMessage = t('whatsappMessage');
 
   return (
     <div>
@@ -33,10 +38,20 @@ function ContactInfo() {
           <FaPhone className="mr-2" /> {phoneNumber}
         </div>
         <div className="flex items-center mb-2">
-          <FaWhatsapp className="mr-2" />  {phoneNumber}
+          <FaWhatsapp className="mr-2" /> {phoneNumber}
         </div>
         <div className="flex items-center">
           <FaEnvelope className="mr-2" /> {email}
+        </div>
+        <div className="mt-4">
+          <a
+            href={generateWhatsAppLink(phoneNumber, whatsappMessage)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600"
+          >
+            {t('whatsappButton')}
+          </a>
         </div>
       </div>
     </div>

@@ -55,9 +55,9 @@ function Navbar() {
   return (
     <nav className="bg-gray-900 p-4 flex justify-between items-center relative">
       {/* Logo or Mobile Menu Icon */}
-      <div className={`flex items-center ml-5 small-logo`}>
+      <div className={`rounded-full flex items-center ml-5 small-logo`}>
         <Link href="/">
-          <Image src={Logo} alt="Dafico Logo" width={60} height={60} />
+          <Image src={Logo} alt="Dafico Logo" width={60} height={60} className='rounded-full'/>
         </Link>
       </div>
 

@@ -39,7 +39,13 @@ function About() {
           <br />
           <span className="font-semibold">{t('director')}</span><br />
           {t('directorName')}<br />
-          {t('directorMobile')}<br />
+          <img 
+            src="/assets/director.jpg"
+            alt="director"
+            className="relative mx-auto rounded-full overflow-hidden w-45 h-60 mt-2"
+          >
+
+          </img>
           <br />
           <span className="font-semibold">{t('address')}</span><br />
           {t('headOffice')}<br />

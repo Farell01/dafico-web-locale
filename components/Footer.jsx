@@ -30,7 +30,7 @@ function Footer() {
           <p>{t('phone')}</p>
         </div>
               {/* Add social media icons */}
-        <div className='flex flex-row space-x-5 md:flex-col md:space-y-5 md:space-x-0 mt-5 md:mt-2 mr-6 ml-3 justify-center md:justify-start'>
+        <div className='flex flex-row space-x-5  md:space-y-0 md:space-x-5 mt-5 md:mt-2 md:mr-16  ml-3 justify-center md:justify-start'>
           <a href='https://www.facebook.com/your_facebook' target='_blank' rel='noopener noreferrer' className='text-white hover:space-y-2'>
             <FaFacebook size={24} />
           </a>
