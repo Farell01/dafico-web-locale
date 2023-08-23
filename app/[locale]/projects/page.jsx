@@ -53,13 +53,7 @@ const Projects = () => {
       descriptionKey: 'projects_hydrogenRenewableEnergy_description',
       imageUrl: '../assets/green_energy.jpg',
       url: '/projects/hydrogen-renewable-energy',
-    },
-    {
-      titleKey: 'projects_camar_title',
-      descriptionKey: 'projects_camar_description',
-      imageUrl: '../assets/Camar.png',
-      url: 'Integrated-Solutions-Project',
-    },
+    }
     // Add more projects data as needed
   ];
 

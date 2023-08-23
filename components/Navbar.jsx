@@ -59,17 +59,20 @@ function Navbar() {
         <Link href="/">
           <Image src={Logo} alt="Dafico Logo" width={60} height={60} className='rounded-full'/>
         </Link>
+        
+        <span className=" text-white text-xl md:text-3xl font-semibold ml-5">Dafico Prima Perkasa</span>
+        
       </div>
 
       {/* Mobile Menu Button */}
-      <div className="sm:hidden">
+      <div className="md:hidden">
         <button onClick={toggleMobileMenu} className="text-white">
           {isMobileMenuOpen ? <FiX size={24} /> : <FiMenu size={24} />}
         </button>
       </div>
 
       {/* Mobile Menu */}
-      {isMobileMenuOpen && windowWidth <= 640 && (
+      {isMobileMenuOpen && windowWidth <= 800 && (
         <div className="absolute z-10 top-20 right-4 bg-gray-900 p-4">
           <ul className="space-y-6">
             <MobileMenuItem href="/">Home</MobileMenuItem>
@@ -87,7 +90,7 @@ function Navbar() {
         </div>
       )}
       {/* Desktop Menu */}
-      <ul className={`hidden sm:flex space-x-4`}>
+      <ul className={`hidden md:flex space-x-4`}>
         <MenuItem href="/" isDesktop={true}>Home</MenuItem>
         <MenuItem href="/projects" isDesktop={true}>Projects</MenuItem>
         <MenuItem href="/about" isDesktop={true}>About</MenuItem>
