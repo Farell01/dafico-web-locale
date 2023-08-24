@@ -6,6 +6,7 @@ import Navbar from '@components/Navbar';
 import Footer from '@components/Footer';
 import React from 'react';
 import style from "@styles/globals.css"
+import "@styles/globals.css"
 
 export default function RootLayout({ children, params }) {
 
@@ -22,7 +23,9 @@ export default function RootLayout({ children, params }) {
         
         { <Navbar />}
         <PageWrapper>
-        {children}
+          <div className="content-container"> {/* Add a container */}
+            {children}
+          </div>
         
         { <Footer />}
         </PageWrapper>

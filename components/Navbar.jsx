@@ -5,6 +5,7 @@ import Image from 'next/image';
 import {usePathname, useRouter} from 'next-intl/client';
 import Link from 'next-intl/link';
 import Logo from '@public/assets/Dafico_Logo.png';
+import "@styles/globals.css"
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -53,7 +54,7 @@ function Navbar() {
 
 
   return (
-    <nav className="bg-gray-900 p-4 z-10 flex justify-between items-center relative">
+    <nav className="Navbar bg-gray-900 p-4 z-10 flex justify-between items-center fixed relative">
       {/* Logo or Mobile Menu Icon */}
       <div className={`rounded-full flex items-center ml-5 small-logo`}>
         <Link href="/">

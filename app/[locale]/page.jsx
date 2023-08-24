@@ -28,7 +28,7 @@ const ProjectSection = ({ titleKey, descriptionKey, link, imageSrc }) => {
   return (
     <div className="ProjectSection bg-white rounded-lg p-4 shadow-md mb-6">
       <div className="flex flex-col md:flex-row">
-        <div className="ProjectImageContainer z-10 mr-4">
+        <div className="ProjectImageContainer mr-4">
           <Image src={imageSrc} alt={title} width={150} height={150}   />
         </div>
         <div className="flex-1 project-description">
