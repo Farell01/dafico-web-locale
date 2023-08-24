@@ -7,7 +7,8 @@ export default function ContactUs() {
   const t = useTranslations('contactUs');
 
   return (
-    <div className="contactcontainer mx-auto mt-8 p-4">
+    <div className='bg-gray-100'>
+    <div className=" bg-gray-100 mx-auto py-8 pb-20 ml-8 md:ml-0">
       <h1 className="text-4xl font-bold text-center mb-6">
         {t('title')}
       </h1>
@@ -15,6 +16,7 @@ export default function ContactUs() {
         <ContactInfo />
         <SocialMediaLinks />
       </div>
+    </div>
     </div>
   );
 }

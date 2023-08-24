@@ -1,10 +1,11 @@
 // components/RootLayout.js
 import {useLocale} from 'next-intl';
 import {notFound} from 'next/navigation';
-
+import { PageWrapper } from "@components/PageWrapper";
 import Navbar from '@components/Navbar';
 import Footer from '@components/Footer';
 import React from 'react';
+import style from "@styles/globals.css"
 
 export default function RootLayout({ children, params }) {
 
@@ -17,10 +18,14 @@ export default function RootLayout({ children, params }) {
 
   return (
     <html lang={locale}>
-      <body>
+      <body style={style.backgroundAll}>
+        
         { <Navbar />}
+        <PageWrapper>
         {children}
+        
         { <Footer />}
+        </PageWrapper>
       </body>
     </html>
   );

@@ -53,7 +53,7 @@ function Navbar() {
 
 
   return (
-    <nav className="bg-gray-900 p-4 flex justify-between items-center relative">
+    <nav className="bg-gray-900 p-4 z-10 flex justify-between items-center relative">
       {/* Logo or Mobile Menu Icon */}
       <div className={`rounded-full flex items-center ml-5 small-logo`}>
         <Link href="/">
@@ -96,8 +96,18 @@ function Navbar() {
         <MenuItem href="/about" isDesktop={true}>About</MenuItem>
         <MenuItem href="/gallery" isDesktop={true}>Gallery</MenuItem>
         <MenuItem href="/contact" isDesktop={true}>Contact</MenuItem>
-        <Link href={pathname} locale="id">🇮🇩</Link>
-        <Link href={pathname} locale="en">🇬🇧</Link>
+        <Link href={pathname} locale="id">
+          <span className={`cursor-pointer  hover:translate-y-[-3px] relative inline-block transition-transform duration-300`}>
+            🇮🇩
+            <span className="absolute bottom-[-5px] left-0 w-full h-3 bg-gray-500 opacity-50 transform scale-x-0 transition-transform duration-300 group-hover:scale-x-100"></span>
+          </span>
+        </Link>
+        <Link href={pathname} locale="en">
+          <span className={`cursor-pointer  hover:translate-y-[-3px] relative inline-block transition-transform duration-300`}>
+            🇬🇧
+            <span className="absolute bottom-[-5px] left-0 w-full h-3 bg-gray-500 opacity-50 transform scale-x-0 transition-transform duration-300 group-hover:scale-x-100"></span>
+          </span>
+        </Link>
       </ul>
     </nav>
   );
