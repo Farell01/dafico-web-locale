@@ -2,9 +2,9 @@ import { useTranslations } from 'next-intl';
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import Head from 'next/head'
+
 import '@styles/globals.css';
-import { Metadata } from 'next'
+
 import { getTranslator } from 'next-intl/server';
 
 //seo optimization here
