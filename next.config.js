@@ -7,4 +7,13 @@ const withNextIntl = require('next-intl/plugin')(
     './i18n.js' 
   );
    
-module.exports = withNextIntl({ nextConfig });
+module.exports = withNextIntl({ 
+  redirects: async () => [
+    {
+      source: '/:path*',
+      has: [{ type: 'host', value: 'dafico.co.id' }],
+      destination: 'https://www.dafico.co.id/:path*',
+      permanent: true
+    }
+  ]
+ });
