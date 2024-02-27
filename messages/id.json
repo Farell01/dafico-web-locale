@@ -70,7 +70,7 @@
         "coreBusinessValue3": "Renewable Energy",
         "contactDetails": "DETAIL KONTAK",
         "telephone": "Telepon: (+6221) 48701683",
-        "email": "Email: dafico.primaperkasa@gmail.com",
+        "email": "Email: ridho.akbar@dafico.co.id",
         "npwpNumber": "Nomor NPWP: 03.096.532.1-006.000",
         "nibNumber": "Nomor NIB: 0209220052006"
       },
@@ -89,12 +89,13 @@
       "contactUs": {
         "contactInfo": {
           "title": "Informasi Kontak",
-          "whatsapp": "WhatsApp: {phoneNumber}",
+          "whatsapp": "WhatsApp: {waphoneNumber}",
           "email": "Email: {email}"
         },
         "title": "Hubungi Kami",
         "description": "Silakan hubungi kami melalui platform media sosial kami atau melalui WhatsApp.",
-        "whatsappButton": "Hubungi kami via WhatsApp"
+        "whatsappButton": "Hubungi kami via WhatsApp",
+        "waMessage": ""
       },
       "Footer": {
         "quickLinks": "Tautan Cepat",

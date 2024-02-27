@@ -28,9 +28,10 @@ function generateWhatsAppLink(phoneNumber, message) {
 
 function ContactInfo() {
   const t = useTranslations('contactUs');
-  const phoneNumber = '+1234567890';
-  const email = 'contact@example.com';
-  const whatsappMessage = t('whatsappMessage');
+  const phoneNumber = '+622148701683';
+  const waphoneNumber = '+6287820996316';
+  const email = 'ridho.akbar@dafico.co.id';
+  const whatsappMessage = t('waMessage');
 
   return (
     <div>
@@ -40,14 +41,14 @@ function ContactInfo() {
           <FaPhone className="mr-2" /> {phoneNumber}
         </div>
         <div className="flex items-center mb-2">
-          <FaWhatsapp className="mr-2" /> {phoneNumber}
+          <FaWhatsapp className="mr-2" /> {waphoneNumber}
         </div>
         <div className="flex items-center">
           <FaEnvelope className="mr-2" /> {email}
         </div>
         <div className="mt-4">
           <a
-            href={generateWhatsAppLink(phoneNumber, whatsappMessage)}
+            href={generateWhatsAppLink(waphoneNumber, whatsappMessage)}
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600"
