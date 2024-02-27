@@ -29,7 +29,7 @@ function generateWhatsAppLink(phoneNumber, message) {
 function ContactInfo() {
   const t = useTranslations('contactUs');
   const phoneNumber = '+622148701683';
-  const waphoneNumber = '+6287820996316';
+  const waphoneNumber = '+6285376859649';
   const email = 'ridho.akbar@dafico.co.id';
   const whatsappMessage = t('waMessage');
 
